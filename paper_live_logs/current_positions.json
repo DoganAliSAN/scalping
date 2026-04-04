@@ -1,0 +1,72 @@
+{
+  "generated_at_utc": "2026-04-02T18:41:42.017463+00:00",
+  "date": "2026-04-02",
+  "execution_mode": "paper",
+  "balance_before": 886.678499769725,
+  "estimated_balance": 870.5443746600296,
+  "realized_pnl_usd": -16.134125109695432,
+  "realized_pnl_pct": -16.134125109695432,
+  "daily_loss_limit": -10.0,
+  "daily_loss_limit_reached": true,
+  "slots": 8,
+  "selected_symbols": [
+    "TIAUSDT_PERP",
+    "VETUSDT_PERP",
+    "LINKUSDT_PERP",
+    "AAVEUSDT_PERP",
+    "YFIUSDT_PERP"
+  ],
+  "open_positions": [],
+  "pending_symbols": [
+    {
+      "symbol": "TIAUSDT_PERP",
+      "market": "usdm",
+      "status": "closed",
+      "skipped_reason": "",
+      "ranked_score": 78.74373873242955,
+      "closed_trades": 3,
+      "realized_pnl_pct": 2.8119487100556073,
+      "has_open_position": false
+    },
+    {
+      "symbol": "VETUSDT_PERP",
+      "market": "usdm",
+      "status": "closed",
+      "skipped_reason": "",
+      "ranked_score": 44.26636155231886,
+      "closed_trades": 3,
+      "realized_pnl_pct": 0.0,
+      "has_open_position": false
+    },
+    {
+      "symbol": "LINKUSDT_PERP",
+      "market": "usdm",
+      "status": "closed",
+      "skipped_reason": "",
+      "ranked_score": 37.98356458898655,
+      "closed_trades": 3,
+      "realized_pnl_pct": -9.650464869954188,
+      "has_open_position": false
+    },
+    {
+      "symbol": "AAVEUSDT_PERP",
+      "market": "usdm",
+      "status": "closed",
+      "skipped_reason": "",
+      "ranked_score": 35.3250151050481,
+      "closed_trades": 3,
+      "realized_pnl_pct": -5.125467164976168,
+      "has_open_position": false
+    },
+    {
+      "symbol": "YFIUSDT_PERP",
+      "market": "usdm",
+      "status": "closed",
+      "skipped_reason": "",
+      "ranked_score": 34.67130079880197,
+      "closed_trades": 2,
+      "realized_pnl_pct": -4.170141784820684,
+      "has_open_position": false
+    }
+  ]
+}

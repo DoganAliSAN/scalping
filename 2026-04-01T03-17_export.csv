@@ -1,0 +1,2 @@
+﻿weekly_days,monthly_days,min_trades,min_weekly_wr,min_monthly_wr,min_weekly_nlr,min_monthly_nlr,top_n,leverage,be_stop,be_trigger_r,target_r,max_trades_per_day,daily_loss_limit,position_size,start_balance,live_daily_loss_limit,live_snapshot_date,live_slots
+3,21,1,30,10,60,40,0,20,true,1,1.5,3,-10,100,800,-10,2026-03-31,8

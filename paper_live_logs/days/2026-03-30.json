@@ -1,0 +1,102 @@
+{
+  "run_id": "2026-03-30_final_1775099076",
+  "generated_at_utc": "2026-04-02T03:04:36.702878+00:00",
+  "date": "2026-03-30",
+  "mode": "paper",
+  "run_kind": "final",
+  "is_final": true,
+  "settings": {
+    "weekly_days": 3,
+    "monthly_days": 21,
+    "min_trades": 1,
+    "min_weekly_wr": 30.0,
+    "min_monthly_wr": 10.0,
+    "min_weekly_nlr": 60.0,
+    "min_monthly_nlr": 40.0,
+    "top_n": 0,
+    "leverage": 20.0,
+    "workers": 8,
+    "be_stop": true,
+    "be_trigger_r": 1.0,
+    "target_r": 1.5,
+    "max_trades_per_day": 3,
+    "daily_loss_limit": -10.0,
+    "start_balance": 800.0,
+    "position_size": 100.0
+  },
+  "account": {
+    "balance_before": 811.7400891805288,
+    "balance_after": 811.7400891805288,
+    "day_pnl_usd": 0.0,
+    "day_return_on_balance_pct": 0.0,
+    "equity_peak": 811.7400891805288,
+    "max_drawdown_pct": 0.0,
+    "slots": 8
+  },
+  "ranking": {
+    "ranked_count": 2,
+    "selected_count": 2,
+    "selected_symbols": [
+      "LINKUSDT_PERP",
+      "STXUSDT_PERP"
+    ]
+  },
+  "day_stats": {
+    "day_pnl_pct": 0.0,
+    "trades": 0,
+    "wins": 0,
+    "breakevens": 0,
+    "losses": 0,
+    "liquidations": 0,
+    "win_rate_pct": 0.0,
+    "non_loss_rate_pct": 0.0
+  },
+  "ranked_symbols": [
+    {
+      "symbol": "LINKUSDT_PERP",
+      "market": "usdm",
+      "score": 25.82325073999121,
+      "weekly_pnl": 17.421324139635132,
+      "weekly_trades": 5,
+      "weekly_wr": 40.0,
+      "weekly_nlr": 60.0,
+      "monthly_pnl": 45.42774614082206,
+      "monthly_wr": 29.72972972972973,
+      "monthly_nlr": 56.75675675675676
+    },
+    {
+      "symbol": "STXUSDT_PERP",
+      "market": "usdm",
+      "score": 24.163642510104193,
+      "weekly_pnl": 22.953914062180296,
+      "weekly_trades": 6,
+      "weekly_wr": 33.33333333333333,
+      "weekly_nlr": 66.66666666666666,
+      "monthly_pnl": 26.98634222192663,
+      "monthly_wr": 28.888888888888886,
+      "monthly_nlr": 53.333333333333336
+    }
+  ],
+  "symbol_results": [
+    {
+      "symbol": "LINKUSDT_PERP",
+      "market": "usdm",
+      "ranked_score": 25.82325073999121,
+      "ranked_weekly_pnl": 17.421324139635132,
+      "ranked_weekly_wr": 40.0,
+      "ranked_weekly_nlr": 60.0,
+      "ranked_monthly_pnl": 45.42774614082206,
+      "ranked_monthly_wr": 29.72972972972973,
+      "ranked_monthly_nlr": 56.75675675675676,
+      "trade_count": 0,
+      "wins": 0,
+      "breakevens": 0,
+      "losses": 0,
+      "liquidations": 0,
+      "total_pnl_pct": 0.0,
+      "total_pnl_usd": 0.0,
+      "skipped_reason": "daily_loss_limit_reached"
+    }
+  ],
+  "trade_results": []
+}

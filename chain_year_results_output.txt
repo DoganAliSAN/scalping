@@ -1,0 +1,404 @@
+Loading CSVs...
+  Loaded setup_results_2025-01.csv: 207360 setups
+  Loaded setup_results_2025-02.csv: 207360 setups
+  Loaded setup_results_2025-03.csv: 207360 setups
+  Loaded setup_results_2025-04.csv: 207360 setups
+  Loaded setup_results_2025-05.csv: 207360 setups
+  Loaded setup_results_2025-06.csv: 207360 setups
+  Loaded setup_results_2025-07.csv: 207360 setups
+  Loaded setup_results_2025-08.csv: 207360 setups
+  Loaded setup_results_2025-09.csv: 207360 setups
+  Loaded setup_results_2025-10.csv: 207360 setups
+  Loaded setup_results_2025-11.csv: 207360 setups
+  Loaded setup_results_2025-12.csv: 207360 setups
+Total common setups: 207360
+
+================================================================================
+TOP 12 SETUPS BY CHAINED YEAR-END BALANCE (2025)
+================================================================================
+
+RANK 1
+  Year-end balance: $1286.35
+  Year-end PnL: $+486.35
+  Profitable months: 3/12
+  Worst month PnL: $-136.49
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 21
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 10
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 0
+  Month-by-month:
+    2025-01: return=+66.90%, pnl=$+535.19, balance=$1335.19
+    2025-02: return=-17.06%, pnl=$-136.49, balance=$1107.40
+    2025-03: return=+6.35%, pnl=$+50.79, balance=$1177.70
+    2025-04: return=+34.49%, pnl=$+275.92, balance=$1583.89
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1583.89
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1583.89
+    2025-07: return=-7.72%, pnl=$-61.77, balance=$1461.58
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1286.35
+
+RANK 2
+  Year-end balance: $1286.35
+  Year-end PnL: $+486.35
+  Profitable months: 3/12
+  Worst month PnL: $-136.49
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 21
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 0
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 0
+  Month-by-month:
+    2025-01: return=+66.90%, pnl=$+535.19, balance=$1335.19
+    2025-02: return=-17.06%, pnl=$-136.49, balance=$1107.40
+    2025-03: return=+6.35%, pnl=$+50.79, balance=$1177.70
+    2025-04: return=+34.49%, pnl=$+275.92, balance=$1583.89
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1583.89
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1583.89
+    2025-07: return=-7.72%, pnl=$-61.77, balance=$1461.58
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1461.58
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1286.35
+
+RANK 3
+  Year-end balance: $1259.32
+  Year-end PnL: $+459.32
+  Profitable months: 3/12
+  Worst month PnL: $-154.00
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 30
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 10
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 0
+  Month-by-month:
+    2025-01: return=+44.90%, pnl=$+359.19, balance=$1159.19
+    2025-02: return=-19.25%, pnl=$-154.00, balance=$936.06
+    2025-03: return=+8.43%, pnl=$+67.44, balance=$1014.96
+    2025-04: return=+47.08%, pnl=$+376.68, balance=$1492.86
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1492.86
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1492.86
+    2025-07: return=-4.15%, pnl=$-33.22, balance=$1430.86
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1259.32
+
+RANK 4
+  Year-end balance: $1259.32
+  Year-end PnL: $+459.32
+  Profitable months: 3/12
+  Worst month PnL: $-154.00
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 30
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 0
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 0
+  Month-by-month:
+    2025-01: return=+44.90%, pnl=$+359.19, balance=$1159.19
+    2025-02: return=-19.25%, pnl=$-154.00, balance=$936.06
+    2025-03: return=+8.43%, pnl=$+67.44, balance=$1014.96
+    2025-04: return=+47.08%, pnl=$+376.68, balance=$1492.86
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1492.86
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1492.86
+    2025-07: return=-4.15%, pnl=$-33.22, balance=$1430.86
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1430.86
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1259.32
+
+RANK 5
+  Year-end balance: $1257.80
+  Year-end PnL: $+457.80
+  Profitable months: 3/12
+  Worst month PnL: $-136.49
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 21
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 0
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 8
+  Month-by-month:
+    2025-01: return=+66.90%, pnl=$+535.19, balance=$1335.19
+    2025-02: return=-17.06%, pnl=$-136.49, balance=$1107.40
+    2025-03: return=+6.35%, pnl=$+50.79, balance=$1177.70
+    2025-04: return=+31.50%, pnl=$+252.04, balance=$1548.73
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1548.73
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1548.73
+    2025-07: return=-7.72%, pnl=$-61.77, balance=$1429.14
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1257.80
+
+RANK 6
+  Year-end balance: $1257.80
+  Year-end PnL: $+457.80
+  Profitable months: 3/12
+  Worst month PnL: $-136.49
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 21
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 10
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 8
+  Month-by-month:
+    2025-01: return=+66.90%, pnl=$+535.19, balance=$1335.19
+    2025-02: return=-17.06%, pnl=$-136.49, balance=$1107.40
+    2025-03: return=+6.35%, pnl=$+50.79, balance=$1177.70
+    2025-04: return=+31.50%, pnl=$+252.04, balance=$1548.73
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1548.73
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1548.73
+    2025-07: return=-7.72%, pnl=$-61.77, balance=$1429.14
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1429.14
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1257.80
+
+RANK 7
+  Year-end balance: $1244.83
+  Year-end PnL: $+444.83
+  Profitable months: 4/12
+  Worst month PnL: $-105.03
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 2.0
+    profile_max_trades_per_day: 3
+    weekly_days: 5
+    monthly_days: 21
+    min_trades: 2
+    min_weekly_wr: 20
+    min_monthly_wr: 10
+    min_weekly_nlr: 40
+    min_monthly_nlr: 40
+    top_n: 2
+  Month-by-month:
+    2025-01: return=+33.22%, pnl=$+265.78, balance=$1065.78
+    2025-02: return=-13.13%, pnl=$-105.03, balance=$925.86
+    2025-03: return=+26.16%, pnl=$+209.25, balance=$1168.03
+    2025-04: return=+27.72%, pnl=$+221.74, balance=$1491.79
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1491.79
+    2025-06: return=-12.66%, pnl=$-101.27, balance=$1302.95
+    2025-07: return=-3.41%, pnl=$-27.26, balance=$1258.55
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1258.55
+    2025-09: return=-4.89%, pnl=$-39.12, balance=$1197.02
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1197.02
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1197.02
+    2025-12: return=+3.99%, pnl=$+31.96, balance=$1244.83
+
+RANK 8
+  Year-end balance: $1244.83
+  Year-end PnL: $+444.83
+  Profitable months: 4/12
+  Worst month PnL: $-105.03
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 2.0
+    profile_max_trades_per_day: 3
+    weekly_days: 5
+    monthly_days: 21
+    min_trades: 2
+    min_weekly_wr: 20
+    min_monthly_wr: 0
+    min_weekly_nlr: 40
+    min_monthly_nlr: 40
+    top_n: 2
+  Month-by-month:
+    2025-01: return=+33.22%, pnl=$+265.78, balance=$1065.78
+    2025-02: return=-13.13%, pnl=$-105.03, balance=$925.86
+    2025-03: return=+26.16%, pnl=$+209.25, balance=$1168.03
+    2025-04: return=+27.72%, pnl=$+221.74, balance=$1491.79
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1491.79
+    2025-06: return=-12.66%, pnl=$-101.27, balance=$1302.95
+    2025-07: return=-3.41%, pnl=$-27.26, balance=$1258.55
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1258.55
+    2025-09: return=-4.89%, pnl=$-39.12, balance=$1197.02
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1197.02
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1197.02
+    2025-12: return=+3.99%, pnl=$+31.96, balance=$1244.83
+
+RANK 9
+  Year-end balance: $1234.05
+  Year-end PnL: $+434.05
+  Profitable months: 3/12
+  Worst month PnL: $-154.00
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 30
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 0
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 5
+  Month-by-month:
+    2025-01: return=+43.87%, pnl=$+350.98, balance=$1150.98
+    2025-02: return=-19.25%, pnl=$-154.00, balance=$929.42
+    2025-03: return=+8.43%, pnl=$+67.44, balance=$1007.77
+    2025-04: return=+43.48%, pnl=$+347.87, balance=$1445.98
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1445.98
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1445.98
+    2025-07: return=-4.15%, pnl=$-33.22, balance=$1385.94
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-12: return=-10.96%, pnl=$-87.67, balance=$1234.05
+
+RANK 10
+  Year-end balance: $1234.05
+  Year-end PnL: $+434.05
+  Profitable months: 3/12
+  Worst month PnL: $-154.00
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 30
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 10
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 5
+  Month-by-month:
+    2025-01: return=+43.87%, pnl=$+350.98, balance=$1150.98
+    2025-02: return=-19.25%, pnl=$-154.00, balance=$929.42
+    2025-03: return=+8.43%, pnl=$+67.44, balance=$1007.77
+    2025-04: return=+43.48%, pnl=$+347.87, balance=$1445.98
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1445.98
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1445.98
+    2025-07: return=-4.15%, pnl=$-33.22, balance=$1385.94
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1385.94
+    2025-12: return=-10.96%, pnl=$-87.67, balance=$1234.05
+
+RANK 11
+  Year-end balance: $1233.76
+  Year-end PnL: $+433.76
+  Profitable months: 3/12
+  Worst month PnL: $-154.00
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 30
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 0
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 8
+  Month-by-month:
+    2025-01: return=+44.90%, pnl=$+359.19, balance=$1159.19
+    2025-02: return=-19.25%, pnl=$-154.00, balance=$936.06
+    2025-03: return=+8.43%, pnl=$+67.44, balance=$1014.96
+    2025-04: return=+44.10%, pnl=$+352.79, balance=$1462.55
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1462.55
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1462.55
+    2025-07: return=-4.15%, pnl=$-33.22, balance=$1401.82
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1233.76
+
+RANK 12
+  Year-end balance: $1233.76
+  Year-end PnL: $+433.76
+  Profitable months: 3/12
+  Worst month PnL: $-154.00
+  Setup:
+    profile_be_stop: True
+    profile_be_trigger_r: 1.0
+    profile_target_r: 1.5
+    profile_max_trades_per_day: 3
+    weekly_days: 3
+    monthly_days: 30
+    min_trades: 1
+    min_weekly_wr: 30
+    min_monthly_wr: 10
+    min_weekly_nlr: 60
+    min_monthly_nlr: 40
+    top_n: 8
+  Month-by-month:
+    2025-01: return=+44.90%, pnl=$+359.19, balance=$1159.19
+    2025-02: return=-19.25%, pnl=$-154.00, balance=$936.06
+    2025-03: return=+8.43%, pnl=$+67.44, balance=$1014.96
+    2025-04: return=+44.10%, pnl=$+352.79, balance=$1462.55
+    2025-05: return=+0.00%, pnl=$+0.00, balance=$1462.55
+    2025-06: return=+0.00%, pnl=$+0.00, balance=$1462.55
+    2025-07: return=-4.15%, pnl=$-33.22, balance=$1401.82
+    2025-08: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-09: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-10: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-11: return=+0.00%, pnl=$+0.00, balance=$1401.82
+    2025-12: return=-11.99%, pnl=$-95.91, balance=$1233.76
+
+================================================================================

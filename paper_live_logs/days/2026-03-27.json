@@ -1,0 +1,102 @@
+{
+  "run_id": "2026-03-27_final_1774728704",
+  "generated_at_utc": "2026-03-28T20:11:44.738581+00:00",
+  "date": "2026-03-27",
+  "mode": "paper",
+  "run_kind": "final",
+  "is_final": true,
+  "settings": {
+    "weekly_days": 3,
+    "monthly_days": 21,
+    "min_trades": 1,
+    "min_weekly_wr": 30.0,
+    "min_monthly_wr": 10.0,
+    "min_weekly_nlr": 60.0,
+    "min_monthly_nlr": 40.0,
+    "top_n": 0,
+    "leverage": 20.0,
+    "workers": 8,
+    "be_stop": true,
+    "be_trigger_r": 1.0,
+    "target_r": 1.5,
+    "max_trades_per_day": 3,
+    "daily_loss_limit": -10.0,
+    "start_balance": 800.0,
+    "position_size": 100.0
+  },
+  "account": {
+    "balance_before": 800.0,
+    "balance_after": 800.0,
+    "day_pnl_usd": 0.0,
+    "day_return_on_balance_pct": 0.0,
+    "equity_peak": 800.0,
+    "max_drawdown_pct": 0.0,
+    "slots": 8
+  },
+  "ranking": {
+    "ranked_count": 2,
+    "selected_count": 2,
+    "selected_symbols": [
+      "ETCUSDT_PERP",
+      "SUSHIUSDT_PERP"
+    ]
+  },
+  "day_stats": {
+    "day_pnl_pct": 0.0,
+    "trades": 0,
+    "wins": 0,
+    "breakevens": 0,
+    "losses": 0,
+    "liquidations": 0,
+    "win_rate_pct": 0.0,
+    "non_loss_rate_pct": 0.0
+  },
+  "ranked_symbols": [
+    {
+      "symbol": "ETCUSDT_PERP",
+      "market": "usdm",
+      "score": 57.97304469465742,
+      "weekly_pnl": 38.79371934546536,
+      "weekly_trades": 7,
+      "weekly_wr": 42.857142857142854,
+      "weekly_nlr": 71.42857142857143,
+      "monthly_pnl": 102.72480384277223,
+      "monthly_wr": 32.55813953488372,
+      "monthly_nlr": 53.48837209302325
+    },
+    {
+      "symbol": "SUSHIUSDT_PERP",
+      "market": "usdm",
+      "score": 25.16011624430582,
+      "weekly_pnl": 8.160136843532742,
+      "weekly_trades": 6,
+      "weekly_wr": 33.33333333333333,
+      "weekly_nlr": 83.33333333333334,
+      "monthly_pnl": 64.82673484610967,
+      "monthly_wr": 36.84210526315789,
+      "monthly_nlr": 68.42105263157895
+    }
+  ],
+  "symbol_results": [
+    {
+      "symbol": "ETCUSDT_PERP",
+      "market": "usdm",
+      "ranked_score": 57.97304469465742,
+      "ranked_weekly_pnl": 38.79371934546536,
+      "ranked_weekly_wr": 42.857142857142854,
+      "ranked_weekly_nlr": 71.42857142857143,
+      "ranked_monthly_pnl": 102.72480384277223,
+      "ranked_monthly_wr": 32.55813953488372,
+      "ranked_monthly_nlr": 53.48837209302325,
+      "trade_count": 0,
+      "wins": 0,
+      "breakevens": 0,
+      "losses": 0,
+      "liquidations": 0,
+      "total_pnl_pct": 0.0,
+      "total_pnl_usd": 0.0,
+      "skipped_reason": "daily_loss_limit_reached"
+    }
+  ],
+  "trade_results": []
+}

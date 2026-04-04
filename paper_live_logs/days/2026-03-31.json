@@ -1,0 +1,89 @@
+{
+  "run_id": "2026-03-31_final_1775099076",
+  "generated_at_utc": "2026-04-02T03:04:36.755480+00:00",
+  "date": "2026-03-31",
+  "mode": "paper",
+  "run_kind": "final",
+  "is_final": true,
+  "settings": {
+    "weekly_days": 3,
+    "monthly_days": 21,
+    "min_trades": 1,
+    "min_weekly_wr": 30.0,
+    "min_monthly_wr": 10.0,
+    "min_weekly_nlr": 60.0,
+    "min_monthly_nlr": 40.0,
+    "top_n": 0,
+    "leverage": 20.0,
+    "workers": 8,
+    "be_stop": true,
+    "be_trigger_r": 1.0,
+    "target_r": 1.5,
+    "max_trades_per_day": 3,
+    "daily_loss_limit": -10.0,
+    "start_balance": 800.0,
+    "position_size": 100.0
+  },
+  "account": {
+    "balance_before": 811.7400891805288,
+    "balance_after": 811.7400891805288,
+    "day_pnl_usd": 0.0,
+    "day_return_on_balance_pct": 0.0,
+    "equity_peak": 811.7400891805288,
+    "max_drawdown_pct": 0.0,
+    "slots": 8
+  },
+  "ranking": {
+    "ranked_count": 1,
+    "selected_count": 1,
+    "selected_symbols": [
+      "TIAUSDT_PERP"
+    ]
+  },
+  "day_stats": {
+    "day_pnl_pct": 0.0,
+    "trades": 0,
+    "wins": 0,
+    "breakevens": 0,
+    "losses": 0,
+    "liquidations": 0,
+    "win_rate_pct": 0.0,
+    "non_loss_rate_pct": 0.0
+  },
+  "ranked_symbols": [
+    {
+      "symbol": "TIAUSDT_PERP",
+      "market": "usdm",
+      "score": 30.562417349889113,
+      "weekly_pnl": 39.278039938659816,
+      "weekly_trades": 8,
+      "weekly_wr": 50.0,
+      "weekly_nlr": 62.5,
+      "monthly_pnl": 10.225964642757475,
+      "monthly_wr": 25.64102564102564,
+      "monthly_nlr": 61.53846153846154
+    }
+  ],
+  "symbol_results": [
+    {
+      "symbol": "TIAUSDT_PERP",
+      "market": "usdm",
+      "ranked_score": 30.562417349889113,
+      "ranked_weekly_pnl": 39.278039938659816,
+      "ranked_weekly_wr": 50.0,
+      "ranked_weekly_nlr": 62.5,
+      "ranked_monthly_pnl": 10.225964642757475,
+      "ranked_monthly_wr": 25.64102564102564,
+      "ranked_monthly_nlr": 61.53846153846154,
+      "trade_count": 0,
+      "wins": 0,
+      "breakevens": 0,
+      "losses": 0,
+      "liquidations": 0,
+      "total_pnl_pct": 0.0,
+      "total_pnl_usd": 0.0,
+      "skipped_reason": "daily_loss_limit_reached"
+    }
+  ],
+  "trade_results": []
+}

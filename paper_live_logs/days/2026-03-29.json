@@ -1,0 +1,134 @@
+{
+  "run_id": "2026-03-29_final_1775099076",
+  "generated_at_utc": "2026-04-02T03:04:36.650711+00:00",
+  "date": "2026-03-29",
+  "mode": "paper",
+  "run_kind": "final",
+  "is_final": true,
+  "settings": {
+    "weekly_days": 3,
+    "monthly_days": 21,
+    "min_trades": 1,
+    "min_weekly_wr": 30.0,
+    "min_monthly_wr": 10.0,
+    "min_weekly_nlr": 60.0,
+    "min_monthly_nlr": 40.0,
+    "top_n": 0,
+    "leverage": 20.0,
+    "workers": 8,
+    "be_stop": true,
+    "be_trigger_r": 1.0,
+    "target_r": 1.5,
+    "max_trades_per_day": 3,
+    "daily_loss_limit": -10.0,
+    "start_balance": 800.0,
+    "position_size": 100.0
+  },
+  "account": {
+    "balance_before": 800.0,
+    "balance_after": 811.7400891805288,
+    "day_pnl_usd": 11.740089180528743,
+    "day_return_on_balance_pct": 1.467511147566093,
+    "equity_peak": 811.7400891805288,
+    "max_drawdown_pct": 0.0,
+    "slots": 8
+  },
+  "ranking": {
+    "ranked_count": 1,
+    "selected_count": 1,
+    "selected_symbols": [
+      "LINKUSDT_PERP"
+    ]
+  },
+  "day_stats": {
+    "day_pnl_pct": 11.740089180528743,
+    "trades": 2,
+    "wins": 1,
+    "breakevens": 0,
+    "losses": 1,
+    "liquidations": 0,
+    "win_rate_pct": 50.0,
+    "non_loss_rate_pct": 50.0
+  },
+  "ranked_symbols": [
+    {
+      "symbol": "LINKUSDT_PERP",
+      "market": "usdm",
+      "score": 22.249225455515372,
+      "weekly_pnl": 5.68123495910639,
+      "weekly_trades": 3,
+      "weekly_wr": 33.33333333333333,
+      "weekly_nlr": 66.66666666666666,
+      "monthly_pnl": 60.907869947136334,
+      "monthly_wr": 31.57894736842105,
+      "monthly_nlr": 60.526315789473685
+    }
+  ],
+  "symbol_results": [
+    {
+      "symbol": "LINKUSDT_PERP",
+      "market": "usdm",
+      "ranked_score": 22.249225455515372,
+      "ranked_weekly_pnl": 5.68123495910639,
+      "ranked_weekly_wr": 33.33333333333333,
+      "ranked_weekly_nlr": 66.66666666666666,
+      "ranked_monthly_pnl": 60.907869947136334,
+      "ranked_monthly_wr": 31.57894736842105,
+      "ranked_monthly_nlr": 60.526315789473685,
+      "trade_count": 2,
+      "wins": 1,
+      "breakevens": 0,
+      "losses": 1,
+      "liquidations": 0,
+      "total_pnl_pct": 11.740089180528743,
+      "total_pnl_usd": 11.740089180528743,
+      "skipped_reason": ""
+    }
+  ],
+  "trade_results": [
+    {
+      "symbol": "LINKUSDT_PERP",
+      "market": "usdm",
+      "trade_index": 1,
+      "side": "long",
+      "result": "stop",
+      "leverage": 20.0,
+      "entry_price": 8.498,
+      "stop_price": 8.449,
+      "target_price": 8.571499999999999,
+      "liquidation_price": 8.073099999999998,
+      "exit_price": 8.449,
+      "entry_time_utc": "2026-03-29T11:00:00+00:00",
+      "entry_time_ny": "2026-03-29T07:00:00-04:00",
+      "exit_time_utc": "2026-03-29T13:09:59.999000+00:00",
+      "exit_time_ny": "2026-03-29T09:09:59.999000-04:00",
+      "pnl_pct": -11.532125205930688,
+      "pnl_usd": -11.532125205930688,
+      "run_id": "2026-03-29_final_1775099076",
+      "date": "2026-03-29",
+      "position_size_usd": 100.0
+    },
+    {
+      "symbol": "LINKUSDT_PERP",
+      "market": "usdm",
+      "trade_index": 2,
+      "side": "long",
+      "result": "target",
+      "leverage": 20.0,
+      "entry_price": 8.508,
+      "stop_price": 8.508,
+      "target_price": 8.606999999999998,
+      "liquidation_price": 8.0826,
+      "exit_price": 8.606999999999998,
+      "entry_time_utc": "2026-03-30T01:00:00+00:00",
+      "entry_time_ny": "2026-03-29T21:00:00-04:00",
+      "exit_time_utc": "2026-03-30T02:49:59.999000+00:00",
+      "exit_time_ny": "2026-03-29T22:49:59.999000-04:00",
+      "pnl_pct": 23.27221438645943,
+      "pnl_usd": 23.27221438645943,
+      "run_id": "2026-03-29_final_1775099076",
+      "date": "2026-03-29",
+      "position_size_usd": 100.0
+    }
+  ]
+}
